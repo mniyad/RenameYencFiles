@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FixArchiveFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "-n \"D:\\Downloads\\Harry Ptter Deathly Hallows Part 2.xml\" -s \"D:\\Temp\""
+    }
+  }
+}
